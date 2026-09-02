@@ -1,2 +1,6 @@
 # Public-Safety-Tech-Lab
-Public safety tech lab, our mission is to prevent Disaster &amp; the unknown 
+Secure, intelligent technology for public safety and emergency response 
+Focus areas: 
+- Securing public systems
+- artificial intelligence emergency response
+- cybersecurity research and innovation 
