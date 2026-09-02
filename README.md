@@ -16,6 +16,5 @@ Public Safety Mesh Network
   
 Black Rabbit is a research effort to build resilient mesh-based communications for public safety and emergency response. It is designed to maintain secure, reliable communications during disasters and temporary critical system outages when traditional networks are unavailable.
 
-project status 
-research development 
+Project Status & Research Development 
    
